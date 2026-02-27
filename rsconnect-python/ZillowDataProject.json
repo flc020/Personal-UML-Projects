@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/felipe_lopez/Desktop/ZillowDataProject",
+        "app_url": "https://flc020.shinyapps.io/interactiveushousingdatadashboard1/",
+        "app_id": "16609408",
+        "app_guid": null,
+        "title": "InteractiveUSHousingDataDashboard",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
