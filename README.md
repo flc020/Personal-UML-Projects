@@ -1,2 +1,3 @@
 # Personal-UML-Projects
-Personal Projects at UML
+Personal Projects at UMass Lowell, not university affiliated.
+
