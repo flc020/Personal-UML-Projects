@@ -1,0 +1,7 @@
+matplotlib
+pillow
+requests
+seaborn
+shiny
+torch
+torchvision
